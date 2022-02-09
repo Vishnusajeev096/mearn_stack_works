@@ -1,0 +1,12 @@
+div{
+    width: 23%;
+    background-color: black;
+    float:left;
+    border: white 2px solid;
+    color: white;
+    text-align: center;
+}
+img{
+    width: 100%;
+    height: 200px;   
+}

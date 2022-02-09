@@ -1,0 +1,100 @@
+#div1{
+    margin-left: 250px;
+}
+div{
+    height: 150px;
+    width: 100px;
+}
+#box1{
+    background-color: rgb(15, 159, 241);
+    margin-top: 100px;
+    margin-left: 400px;
+    
+}
+#box2{
+    background-color:darkblue;
+    margin-top: -150px;
+    margin-left: 290px;
+}
+#box3{
+    background-color:indigo;
+    margin-top: -150px;
+    margin-left: 510px;
+}
+#box4{
+    background-color:darkviolet;
+    margin-top: -150px;
+    margin-left: 620px;
+}
+#box5{
+    background-color:goldenrod;
+    margin-top:10px ;
+    margin-left: 180px;
+}
+#box6{
+    background-color:gold;
+    margin-top: -150px;
+    margin-left: 290px;
+}
+#box7{
+    background-color: green;
+    margin-top: -150px;
+    margin-left: 400px;
+
+}
+#box8{
+    background-color:greenyellow;
+    margin-top: -150px;
+    margin-left: 510px;
+}
+#box9{
+    background-color: darkorange;
+    margin-top: -150px;
+    margin-left: 620px;
+}
+#box10{
+    background-color: orange;
+    margin-top: -150px;
+    margin-left: 730px;
+}
+#box11{
+    background-color: darkred;
+    margin-top:10px;
+    margin-left: 70px;
+}
+#box12{
+    background-color: red;
+    margin-top: -150px;
+    margin-left: 180px;
+}
+#box13{
+    background-color: olive;
+    margin-top: -150px;
+    margin-left: 290px;
+}
+#box14{
+    background-color: olivedrab;
+    margin-top: -150px;
+    margin-left: 400px;
+
+}
+#box15{
+    background-color: plum;
+    margin-top: -150px;
+    margin-left: 510px;
+}
+#box16{
+    background-color: pink;
+    margin-top: -150px;
+    margin-left: 620px;
+}
+#box17{
+    background-color: saddlebrown;
+    margin-top: -150px;
+    margin-left: 730px;
+}
+#box18{
+    background-color: rosybrown;
+    margin-top: -150px;
+    margin-left: 840px;
+}

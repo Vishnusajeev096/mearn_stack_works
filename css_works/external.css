@@ -1,0 +1,12 @@
+h1{
+    color: #d9bc6f;
+}
+body{
+    background-color: #914540;
+}
+div{
+    background-color: #791b24;
+    height: 300px;
+    width: 800px;
+    border: lightslategrey 2px solid;
+}
